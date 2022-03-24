@@ -29,6 +29,13 @@ github_username: hyrtsi
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
+  social_links:
+    github: hyrtsi
+    stackoverflow: "12871003"
+    instagram: hyrtsimyrtsi
+    linkedin: eljashyyrynen
 plugins:
   - jekyll-feed
 
