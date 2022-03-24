@@ -44,7 +44,7 @@ Install jekyll and bundler:
 
 - [Testing Github pages locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 - [Jekyll](https://jekyllrb.com/docs/installation/)
-- [Ruby]()
+- [Ruby](https://www.ruby-lang.org/en/downloads/)
 - [Creating Github pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
 - [Static site generators](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#static-site-generators)
 - [Gh pages + Jekyll main](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
