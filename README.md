@@ -2,7 +2,7 @@
 
 # About
 
-- This is the repo for my Jekyll blog
+- This is the repo for my Jekyll blog, [hyrtsi.github.io](https://hyrtsi.github.io)
 - It's deployed from `docs/` directory of `master` branch
 
 
