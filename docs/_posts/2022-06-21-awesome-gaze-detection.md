@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Awesome Gaze Detection"
-date:   2022-06-21 13:37:00 +0200
+date:   2022-06-21 11:47:25 +0200
+categories: 
 ---
 
 # Awesome gaze detection repositories
@@ -35,3 +36,4 @@ Some of these methods require face and eye detection.
 ## eye-gaze
 
 [iitmcvg/eye-gaze](https://github.com/iitmcvg/eye-gaze)
+

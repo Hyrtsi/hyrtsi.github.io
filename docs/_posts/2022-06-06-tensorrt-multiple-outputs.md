@@ -177,3 +177,27 @@ To be continued...
 
 We will base our code to [this](https://github.com/noahmr/yolov5-tensorrt) amazing repository.
 
+We start with setting the engine up.
+
+Create inference runtime:
+
+```c++
+nvinfer1::IRuntime* trtRuntime = nvinfer1::createInferRuntime(*logger);
+```
+
+This call requires us to inherit `nvinfer1::ILogger` (sources found in `NvInferRuntimeCommon.h`) and pass that logger for the runtime. A closer look at the `ILogger` class reveals that it has a virtual function `log()`. If you implement your own logger you must also implement this method. Here is a minimal example that does't take the severity into account:
+
+```c++
+class Logger : nvinfer1::ILogger final
+{
+    void log(nvinfer1::ILogger::Severity severity, char const* msg) override
+    {
+        printf("%s\n", msg);
+    }
+};
+```
+
+After we've set up the logger and runtime, it's time to load the engine. First decode the engine file
+
+```c++
+```
