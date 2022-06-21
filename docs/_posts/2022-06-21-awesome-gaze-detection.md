@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Awesome Gaze Detection"
-date:   2022-06-21 13:37:42 +0200
+date:   2022-06-21 13:37:00 +0200
 ---
 
 # Awesome gaze detection repositories
