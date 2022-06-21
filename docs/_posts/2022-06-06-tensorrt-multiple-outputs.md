@@ -94,12 +94,6 @@ Now we are stepping into TensorRT world. It means we need to install some depend
 
 #### Check that you have a [CUDA capable GPU](https://developer.nvidia.com/cuda-gpus).
 
-#### Install Nvidia drivers
-
-```
-sudo apt install nvidia-driver-510
-```
-
 #### Install CUDA
 
 Find the steps for your system [here](https://developer.nvidia.com/cuda-downloads). For Ubuntu 20.04 and CUDA 11.7:
@@ -113,6 +107,15 @@ sudo cp /var/cuda-repo-ubuntu2004-11-7-local/cuda-*-keyring.gpg /usr/share/keyri
 sudo apt-get update
 sudo apt-get -y install cuda
 ```
+
+Note: this depends on `nvidia-driver-515`. If you have an older version replace the last step in the command above with `sudo aptitude install cuda` to resolve conflicts or do this:
+
+```
+sudo apt-get remove --purge nvidia-*
+sudo apt-get remove --purge *nvidia*
+```
+
+This removes all `apt` packages related to nvidia. They will be reinstalled upon `cuda` installation.
 
 #### Reboot your PC 
 
@@ -171,3 +174,6 @@ Congratulations. Now you have the model. Let's use it for something cool next.
 ## Loading TensorRT .engine in c++
 
 To be continued...
+
+We will base our code to [this](https://github.com/noahmr/yolov5-tensorrt) amazing repository.
+
