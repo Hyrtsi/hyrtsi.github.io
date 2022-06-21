@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Why are my changes on Github Jekyll site not visible?"
-date:   2022-06-21 14:43:00 +0200
+title: "Why are my changes on Github Jekyll site not visible?"
+date: 2022-06-21 14:43:00 +0200
 categories: 
 ---
 
