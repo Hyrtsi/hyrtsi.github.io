@@ -32,7 +32,6 @@ Some of these methods require face and eye detection.
 
 [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
 
-
 ## eye-gaze
 
 [iitmcvg/eye-gaze](https://github.com/iitmcvg/eye-gaze)
