@@ -77,7 +77,19 @@ If you don't want to have any categories it should look like this
 categories:
 ```
 
-If you omit the line entirely the page will not load.
+If you omit the line entirely the page may not load.
+
+## Make sure you remembered to all add assets to source control
+
+If you forgot to do that there will be no errors necessarily but the pages cannot be created.
+
+```
+git add dos/assets/foo.png
+git commit -m "add foo.png"
+git push
+```
+
+Remember that there is a size limit for a single file and there is a size limit for your whole repository!
 
 ## That's all
 
