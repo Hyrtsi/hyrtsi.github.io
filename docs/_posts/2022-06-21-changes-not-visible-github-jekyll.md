@@ -68,12 +68,10 @@ The correct header looks like this
 
 ```
 ---
----
 layout: post
 title:  "How to train your dragon"
 date:   2022-01-01 13:37:40 +0500
 categories: foo
----
 ---
 ```
 
