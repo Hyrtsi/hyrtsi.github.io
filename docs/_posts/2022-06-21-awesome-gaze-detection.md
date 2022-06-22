@@ -31,6 +31,19 @@ appearance-based gaze estimator gaze detector human pose estimation head pose fa
 - 🟢 Is related to a research paper
 - 🟢 Has good quality code
 
+## pytorch-mpiigaze-demo
+
+[hysts/pytorch_mpiigaze_demo](https://github.com/hysts/pytorch_mpiigaze_demo)
+
+An awesome repo containing demo for MPIIGaze, MPIIFaceGaze, ETH-XGaze. It is really easy to install for demos: just install it with pip. However, forking the code required a bit effort for me.
+
+- 🟢 Has a trained model
+- 🟡 Has a README with installation guide
+  - The README is awesome, it has a lot of gifs, installation guide and CLI args helper
+  - However, the README does not help you if you want to fork the code, edit it and run it on your system
+- 🟢 Is related to a research paper
+- 🟢 Has good quality code
+
 
 ## gazeNet
 
