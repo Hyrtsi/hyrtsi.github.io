@@ -57,3 +57,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+markdown: kramdown
+kramdown:
+  math_engine: katex
