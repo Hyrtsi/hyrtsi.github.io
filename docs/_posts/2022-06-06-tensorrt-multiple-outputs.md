@@ -173,8 +173,6 @@ Congratulations. Now you have the model. Let's use it for something cool next.
 
 ## Loading TensorRT .engine in c++
 
-To be continued...
-
 We will base our code to [this](https://github.com/noahmr/yolov5-tensorrt) amazing repository.
 
 We start with setting the engine up.
@@ -200,4 +198,82 @@ class Logger : nvinfer1::ILogger final
 After we've set up the logger and runtime, it's time to load the engine. First decode the engine file
 
 ```c++
+bool loadEngine(const std::string& engineFilePath)
+{
+    std::ifstream engineFileStream(engineFilePath, std::ios::binary);
+    if (not engineFileStream.good())
+    {
+        printf("Could not read engine from file %s\n", engineFilePath.c_str());
+        return false;
+    }
+
+    std::vector<char> engineData(std::istreambuf_iterator<char>(engineFileStream), {});
+    engineFileStream.close();
+
+    printf("Loaded %zu bytes of engine data\n", engineData.size());
+
+    std::unique_ptr<nvinfer1::ICudaEngine> engine(
+            m_trtRuntime->deserializeCudaEngine(engineData.data(), engineData.size()));
+    if (not engine)
+    {
+        printf("Could not create engine\n");
+        return false;
+    }
+
+    return true;
+}
 ```
+
+Then create execution context
+
+```c++
+    std::unique_ptr<nvinfer1::IExecutionContext> executionContext(
+        engine->createExecutionContext());
+    if (not executionContext)
+    {
+        m_logger->log(LogLevel::kERROR,
+            "[Engine] failure: could not create execution context");
+        return false;
+    }
+```
+
+Create bindings
+
+You can see the bindings like this:
+
+```c++
+void Engine::_printBindings(
+            const std::unique_ptr<nvinfer1::ICudaEngine>& engine) 
+            const noexcept
+{
+    const int32_t nbBindings = engine->getNbBindings();
+    for (int i = 0; i < nbBindings; ++i)
+    {
+        try
+        {
+            EngineBinding binding;
+            EngineBinding::setup(engine, i, binding);
+
+            std::string str;
+            binding.toString(&str);
+
+            m_logger->log(LogLevel::kINFO, "[Engine] loadEngine() info: Binding "
+                        "%i - %s", i, str.c_str());
+        }
+        catch(const std::exception& e)
+        {
+            std::cerr << e.what() << '\n';
+        }
+    }
+}
+```
+
+Make sure you check the bindings. There is no single way to define them and they can vary a lot from model to model. So you have to pay attention that you have loaded the correct model with the inputs and outputs you expect it to have. You need to check the layer names so you understand which layer is which.
+
+Set up memory
+
+TODO
+
+and then you're ready for inference!
+
+To be continued...
