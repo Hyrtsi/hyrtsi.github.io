@@ -34,7 +34,7 @@ The next step is to add a `sitemap.xml`. It is a file showing all the pages on y
   - Type the url to the `sitemap.xml` file, press `SEND`, hope for the best
   - It can take a few days for Google to tell you the results
 
-That's it.
+That's it. Remember that you have to update the sitemaps when you add more pages.
 
 ## Further into SEO
 
