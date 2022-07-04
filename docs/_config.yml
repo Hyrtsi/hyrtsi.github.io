@@ -37,7 +37,7 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-latex
+  # - jekyll-latex # TODO: used?
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -59,6 +59,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-markdown: kramdown
-kramdown:
-  math_engine: katex
+# TODO: needed?
+# markdown: kramdown
+# kramdown:
+#   math_engine: katex
