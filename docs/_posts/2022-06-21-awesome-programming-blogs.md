@@ -26,4 +26,34 @@ A blog I found recently. Lots of new papers on computer vision.
 
 My goto resource on learning to do things with OpenCV.
 
-To be continued ...
+## [Real Python](https://realpython.com)
+
+Really well written modern Python tutorials.
+
+## [Made with ML](https://madewithml.com/)
+
+Build your technical foundation in ML and MLOps.
+
+## [PyImageSearch](https://pyimagesearch.com/)
+
+A great collection of articles for OpenCV and deep learning
+
+## [Sefiks](https://sefiks.com/)
+
+The author of DeepFace, a popular face detection repos on Github. He also has a great Youtube channel.
+
+## [Better Data Science](https://betterdatascience.com/)
+
+A data science blog by Dario Radečić. Python, ML, TensorFlow, R, Visualization.
+
+## [Lilian Weng](https://lilianweng.github.io/)
+
+A personal blog of a OpenAI researcher. Really good reinforcement learning resources.
+
+## [Andrej Karpathy](https://karpathy.github.io/)
+
+A legendary deep learning figure
+
+## [Jonathan Hui](https://jhui.github.io/)
+
+Machine learning articles
