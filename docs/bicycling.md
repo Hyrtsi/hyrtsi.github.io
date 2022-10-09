@@ -104,6 +104,8 @@ I'm not too excited about Australia yet. I've heard it has the craziest animals 
 There are many successful routes around or across Australia. Darwin to Melbourne (north-south) is about 4000km. East-west probably cannot be done as a straight line. Mark Beaumont and Jenny Graham cycled approximately from Perth to Sydney along the south coastline of Australia. I would probably follow that same route as I'd like to see something else besides the desert. That route is about 4000km.
 [This](https://lunky.com/) awesome dude cycled around Australias coast line for 20 000km if you need inspiration.
 
+Sydney is said to be one of the worst cities for cyclists so be aware.
+
 I'd think 4000km can be done in 2 months but 3 months would be a good investment to make it more enjoyable. Besides, it takes about 20 hours to fly to Australia from Finland so it would be boring to be there for such a short time. Even better idea would be to visit New Zealand right after Australia. 
 
 There is an awesome route across NZ: Tour Aotearea (TA). Read more about it [here](https://www.escapeadventuresnz.com/cycle-tours/tour-aotearoa-cape-reinga-to-bluff/) and [here](http://www.touraotearoa.nz/p/home.html). It's 3000km and you can do it in 1 month if you're hasty. However, there are amazing landscapes and hikes there that I would like to visit such as Mount Cook (3724m). I know from experience that NZ has really steep climbs with bike, too. So 2 months is minimum for the trip to be enjoyable and not just suffering 12 hours a day. Thus, Australia and NZ will take almost 6 months in total.
@@ -129,6 +131,8 @@ My favorite place would be of course Japan. Cycling around it would be about 400
 
 China is a controversial country. I don't say why but I'd really love to visit that country one day. Besides, it's a large country so avoiding it would make a RTW trip a bit difficult. Finnish citizens must apply for a visa to China separately. A single pass tourist visa is 30 days and it can be extended to 90 days.
 
+The traffic in China can be dangerous. The police or the officials cannot be trusted. Internet has been censored. The Finnish Ministry of Foreign Affairs does not recommend to travel to China currently.
+
 Korea is interesting at least but there isn't too much to bicycle there until I have to pack everything up in a cargo ship or in an aeroplane. The same goes with Taiwan except I have heard that it's an awesome place for bicyclists, climbers and hikers.
 
 I would like to visit all regions in Asia except North Asia (Siberia) since that area is way too cold and harsh for now. In Western Asia I'd like to visit Turkey, Georgia, Armenia, Azerbaidjan, Iraq and Iran. I don't know anything about Central Asia (the 'stans) but I'd like to visit some of them. The mountains are a major feature in Central Asia landscape:
@@ -139,20 +143,28 @@ Another map shows the borders of the countries:
 
 ![central-asia]({{site.baseurl}}/assets/Central-Asia-political-physical-elevation-map.webp)
 
-so probably crossing the mountains would be tough but also rewarding as I love the mountains.
+so probably crossing the mountains would be tough but also rewarding as I love the mountains. According to [this](https://visaguide.world/tips/hardest-countries-to-visit/) page Turkmenistan is difficult to get a visa to.
 
-In the South Asia I'd like to visit India, Nepal, maybe Bhutan and Bangladesh. I'm not sure how biker friendly these countries are but one day I'll find out. Hiking in the Himalayan mountains would be a life changing trip. And as South Asia is the most populous and the most population dense geographical region in the world I would experience something completely different than in any other part of the world because of that.
+In the South Asia I'd like to visit India, Nepal, maybe Bangladesh. I'm not sure how biker friendly these countries are but one day I'll find out. Hiking in the Himalayan mountains would be a life changing trip. And as South Asia is the most populous and the most population dense geographical region in the world I would experience something completely different than in any other part of the world because of that. Bhutan is [notoriously difficult to get a visa to](https://visaguide.world/tips/hardest-countries-to-visit/).
 
-Finally, in the more islandy South-East Asia I'd like to visit Thailand, 
+Finally, in the more islandy South-East Asia I'd like to visit Thailand, Cambodia, Indonesia, Laos, Malaysia, Myanmar and Vietnam. The islands aren't that appalling to bicycling but I could try that, too. I will do some googling for other people who have visited these areas and update this accordingly.
+
+[worldbiking.info](http://www.worldbiking.info/wordpress/2018/02/is-it-safe-to-cycle-around-the-world/) does not recommend Thailand or Bangladesh. Some other people have told me that Cambodia is bad.
 
 I used [The Finnish Ministry for Foreign Affairs](https://um.fi/matkustustiedotteet-a-o) to find out what's going on in each of these countries and it's not looking too good.
 
 - Iraq: risk of terrorism, lots of bombs and mines in forests, foreigners are kidnapped, Iraqi Airways are banned by EU, floods in the winter, sandstorms in the summer, hot and dry
 - Iran: political instability and protests, new sanctions to Iran, dangers in borders with Afghanistan, Iraq and Pakistan
 
+These two countries are also featured in [the worst countries to visit](https://worldpopulationreview.com/country-rankings/worst-countries-to-visit).
+
+I think I shouldn't be checking information about the security of the countries because otherwise I'll end up travelling nowhere.
 
 ### Africa
 
+I have heard lots of good things about Morocco. Peyman from [Nomad's Trails](https://nomadstrails.com/) has been travelling in West Africa across Sahara. He has loved it there so far. East or central Africa doesn't look like a good place at all.
+
+I think I'll do a separate trip to Africa when it's time for that. Covid, extreme weather and Russian attacking Ukraine has done a lot of bad things for Africa so I'm not surprised there is a lot of tension.
 
 ## Antarctica
 
@@ -169,6 +181,31 @@ Some people have biked here. I myself am not ready for it yet.
 - Taiwan is a good place for bicyclists
 
 That's it. Please don't be offended if the piece of land you love wasn't listed. Please contact me if you think your country is the best place ever for my tour.
+
+# Conclusion on my 'bucket list' of countries and areas
+
+- Start somewhere in Europe
+- Prefer not to start from Finland to south to Baltics because I've cycled the Baltics already twice
+- Start going from west to east
+- Avoid countries flagged as dangerous, in war, unstable or too difficult to get a visa to
+
+Possible route for the first leg:
+- Start from Italy
+- Go to Croatia and follow the coastline to Bosnia-Montenegro-Albania-Greece
+- Start moving towards North-Macedonia, Bulgaria, Turkey
+- Georgia, Armenia, Azerbaidjan, then a ferry to Kazakstan
+- Kazakstan does not have any border with Mongolia so try to transit to Mongolia via Russia or China
+- End the trip there OR
+- try to get to India-Nepal-Myanmar-Thailand-Laos-Cambodia-Vietnam and end the trip there OR
+- fly to Japan
+
+Basically move from west to east as long distance as possible.
+
+Australia can be probably reached without a flight by going to Malesia, Singapore, Sumatra, Jakarta and using just ferries. But I'm not sure if that would be in scope of this leg.
+
+Second leg: Americas
+Third leg: Australia and NZ
+Fourth leg: Morocco to West Africa
 
 # Parameters to optimize
 
@@ -199,4 +236,10 @@ It's my fears and prejudices talking and hopefully for the right reason.
 
 [![dangerous-countries]({{site.baseurl}}/assets/dangerous-countries-map-late-2022.jpg)](https://www.atlasandboots.com/travel-blog/most-dangerous-countries-in-the-world/)
 
+### Weather
 
+I have to find out what kind of climate there is in the countries I visit and maximize the safety and comfort.
+
+### Road condition
+
+I have to micro optimize the route to avoid highways (4 lanes, cars driving 100km/h) and muddy roads.
