@@ -123,7 +123,13 @@ Other than that I think I've seen Europe enough and it's time for me to move on 
 
 ### Asia
 
-I have never been to Asia. I don't count transferring in Singapore as visiting. But I'd really love to. My favorite place would be of course Japan. Cycling around it would be about 4000km and it would take a longer time than 2 months since most of the country is mountainous and there are lots of cool places to see. The length of the tourist visa is three months. I think I could try to squeeze my visit to that time and extend it or come back if necessary/possible.
+I have never been to Asia. I don't count transferring in Singapore as visiting. But I'd really love to.
+
+My favorite place would be of course Japan. Cycling around it would be about 4000km and it would take a longer time than 2 months since most of the country is mountainous and there are lots of cool places to see. The length of the tourist visa is three months. I think I could try to squeeze my visit to that time and extend it or come back if necessary/possible.
+
+China is a controversial country. I don't say why but I'd really love to visit that country one day. Besides, it's a large country so avoiding it would make a RTW trip a bit difficult. Finnish citizens must apply for a visa to China separately. A single pass tourist visa is 30 days and it can be extended to 90 days.
+
+Korea is interesting at least but there isn't too much to bicycle there until I have to pack everything up in a cargo ship or in an aeroplane. The same goes with Taiwan except I have heard that it's an awesome place for bicyclists, climbers and hikers.
 
 I would like to visit all regions in Asia except North Asia (Siberia) since that area is way too cold and harsh for now. In Western Asia I'd like to visit Turkey, Georgia, Armenia, Azerbaidjan, Iraq and Iran. I don't know anything about Central Asia (the 'stans) but I'd like to visit some of them. The mountains are a major feature in Central Asia landscape:
 
@@ -133,14 +139,16 @@ Another map shows the borders of the countries:
 
 ![central-asia]({{site.baseurl}}/assets/Central-Asia-political-physical-elevation-map.webp)
 
+so probably crossing the mountains would be tough but also rewarding as I love the mountains.
+
+In the South Asia I'd like to visit India, Nepal, maybe Bhutan and Bangladesh. I'm not sure how biker friendly these countries are but one day I'll find out. Hiking in the Himalayan mountains would be a life changing trip. And as South Asia is the most populous and the most population dense geographical region in the world I would experience something completely different than in any other part of the world because of that.
+
+Finally, in the more islandy South-East Asia I'd like to visit Thailand, 
 
 I used [The Finnish Ministry for Foreign Affairs](https://um.fi/matkustustiedotteet-a-o) to find out what's going on in each of these countries and it's not looking too good.
 
 - Iraq: risk of terrorism, lots of bombs and mines in forests, foreigners are kidnapped, Iraqi Airways are banned by EU, floods in the winter, sandstorms in the summer, hot and dry
 - Iran: political instability and protests, new sanctions to Iran, dangers in borders with Afghanistan, Iraq and Pakistan
-
-China is a controversial country. I don't say why but I'd really love to visit that country one day. Besides, it's a large country so avoiding it would make a RTW trip a bit difficult.
-
 
 
 ### Africa
@@ -161,3 +169,34 @@ Some people have biked here. I myself am not ready for it yet.
 - Taiwan is a good place for bicyclists
 
 That's it. Please don't be offended if the piece of land you love wasn't listed. Please contact me if you think your country is the best place ever for my tour.
+
+# Parameters to optimize
+
+Are you with me so far? If so, it's time to actually plan the route or routes. As I'm an engineer it's essential to decide with respect of which quantity to optimize the route. The most obvious thing is to convert everything to either time or money. If I had an infinite supply of either or both I'd be able to do anything.
+
+A flight from A to B costs money and time. A train from A to B costs money and time. Bicycling in the USA for 100 days costs money and time. Getting a flat tire, eating, working 9-5... you get the idea.
+
+I want to absolutely minimize my monetary costs. I just don't like spending way too much money and I like experiences more than stuff. But I don't need to take helicopter rides and manicures. Just basic stuff. I don't enjoy luxury meals and I'm ok with sleeping in a tent and wildcamping 90% of the time.
+
+Secondly, I don't want to quit my job (yet). I don't think I can. I have been thinking of ways to go around finances, retirement and all that and I don't have an answer yet. I have tried working remotely while bicycle touring, too. I will write about it in another post.
+
+I have some savings so I could in theory just quit my job, sell everything and start touring. But that doesn't feel comfortable to me.
+
+I also want to minimize the amount of flights I take. I think I have done about 20 flights in my life. At one point I totally hated it. At one point I had to travel for work.
+Nowadays I'm kind of neutral.
+I know it's horrible for the planet and the ecological side is totally another story.
+I don't even want to start arguing about it because I think you shouldn't make kids and I also think the big corporations are pushing the responsibility to consumers.
+But that's already too many controversial opinions.
+I don't like flying and I hate breaking my bicycle in parts, sending it somewhere else in a cardboard box and reassembling it.
+That's why I want to stop doing 2-4 week trips 1-2 times a year and start doing 20-40 week trips.
+
+I want to minimize the amount of unnecessary risks I take.
+I don't want to visit [dangerous countries](https://worldpopulationreview.com/country-rankings/most-dangerous-countries) such as Yemen, Afghanistan, Syria, Russia, South Sudan, Somalia or Pakistan.
+I mean I really do.
+And I think there are some wonderful people in those countries.
+But I don't want to be beaten up by the police, get shot, lose my leg to a landmine or stuff like that.
+It's my fears and prejudices talking and hopefully for the right reason.
+
+[![dangerous-countries]({{site.baseurl}}/assets/dangerous-countries-map-late-2022.jpg)](https://www.atlasandboots.com/travel-blog/most-dangerous-countries-in-the-world/)
+
+
