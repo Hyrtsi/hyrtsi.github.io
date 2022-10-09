@@ -26,7 +26,7 @@ I will collect here resources that are useful for me and hopefully are useful to
 # Index
 
 - Next level path planning for long bicycle tours around the world
--- Visas
+-- [Visas](https://www.visahq.com/)
 -- Weather
 -- Security
 -- Road condition
@@ -34,3 +34,94 @@ I will collect here resources that are useful for me and hopefully are useful to
 - What to take with you
 - Funding
 - Psychology
+
+# Big picture
+
+I love to travel the world. I love bicycling, too. On my last trip from Finland to Romania I got two ideas: a route planning application for bicyclists and my own trip around the world. I had earlier thought that I would be able to do my RTW trip in smaller pieces but now I got frustrated. I have about 4 or 5 weeks of paid holiday each year. I can apply for an unspecified amount of unpaid holiday, too. I can travel 1000km, maybe 2000km max during that time. It doesn't sound too appealing.
+
+- It takes a while to go from bicycle mental mode to working and living in a city and vice versa so long trips are preferred
+- Flying is almost certainly required to travel from Finland to anywhere unless I have lots of more time
+- It's frustrating to disassemble and package the bicycle for flying
+- Many short trips is more expensive than few long trips
+- I don't need much money on the tour, maybe 5-10 euros a day on average
+- I don't want to travel the same routes every time
+
+so I must try to travel for longer periods of time. At least two months, preferably more at a time. Since most of our planet is water the route must be split to parts and boats, ferries and airplanes must be used. This also means that each one of these journeys can be done separately and I can return back home in between them.
+
+The fastest person to bicycle around the world is Mark Beaumont. He cycled around the world 29000km in 78 and a half days. The slowest person to cycle around the world is Heinz Stucke, who cycled around the world for 50 years. My trip will be something in between probably. Those men have set the boundaries for me.
+
+I have decided that I must maximize the fun, safety and meaning in my trip. I don't have to follow the Guiness World Records rules even though it would be awesome to get my name on the same page with the big boys and girls.
+
+Things that motivate me:
+- Travelling countries that none of my friends even know about
+- Meeting local people and other cyclists
+- Adventuring
+- Having a big goal
+- Visiting many countries
+- Seeing beautiful places
+
+Things that do not motivate me:
+- Ugly places
+- Crowded and busy streets
+- Landmines, war, protests
+- Pollution
+- Corrupt police
+- Trash and broken glass on the streets
+- Natural disasters
+- Wild animals that try to kill me
+
+It is inevitable that the list of countries I can visit is really low if I want to minimize all risks. Consider [all the horrible things that happened to Heinz Stuck](https://en.wikipedia.org/wiki/Heinz_St%C3%BCcke#Global_bicycle_tour) on his journey. But that doesn't make me want to stay at home. He did survive it so I will survive, too.
+
+# Review on all people who have cycled around the world (or are currently trying to)
+
+Thomas Stevens was the first person to ride a bicycle around the world. It took him three years. He started from San Francisco and worked his way from west to east.
+
+![thomas-stevens]({{site.baseurl}}/assets/thomas-stevens-route.png)
+
+# Route planning
+
+There are four big connected bodies of land in the world:
+- Afro-Eurasia
+- Americas
+- Australia
+- Antarctica
+
+In addition to this, there are notable islands such as Iceland, the UK, Madagascar, New Zealand, Japan, Greenland and Polynesia to name a few. If it was possible I'd like to visit every single of them. But since my time and money are limited I have to rank everything and pick the ones I am the most curious about.
+
+## Americas
+
+Route planning for Americas is quite straightforward to me so I will start with it. I can choose to go from Alaska to Argentina or to stick with the US of A and go from San Diego to Boston. These lands have been explored with bicycles many many times so I think this would be a no-brainer. Some South American countries could be dangerous and I could face tons of bears in Alaska but I don't worry about that too much.
+
+The route from west to east is around 5000-9000km and the route from south to north is at least 30 000km. [This crazy dude](https://www.davestravelpages.com/cycling-from-alaska-to-argentina-the-pan-american-highway) did write something about the north to south route.
+There are some amazing established routes such as The Great Divide [and more](https://exploringwild.com/bicycling-across-america-tips/). 
+
+I think it would make sense to "complete" this section of the trip separately and use as much time as possible for it. I think the west to east USA tour could be done in 6-12 months and south to north in 1-3 years depending on ... everything (the route, speed, time spent on each country, amount of countries visited, amount of sidequests done). That would give me an excellent reason to practise my Spanish skills, too.
+
+## Australia
+
+I'm not too excited about Australia yet. I've heard it has the craziest animals and difficult wind conditions. It also has a lot of friendly people and the longest straight road in the world. Wikipedia told me that Australia is the world's sixth-largest country so it has a lot of area. It also has a lot of uninhabitated land and wilderness which isn't exactly suited for bicycling. I'm not a fan of big empty spaces. But to counter that it is the flattest country in the world and a so-called megadiverse country with lots of different climates and landscapes from tropical rainforests to deserts and mountains.
+
+There are many successful routes around or across Australia. Darwin to Melbourne (north-south) is about 4000km. East-west probably cannot be done as a straight line. Mark Beaumont and Jenny Graham cycled approximately from Perth to Sydney along the south coastline of Australia. I would probably follow that same route as I'd like to see something else besides the desert. That route is about 4000km.
+[This](https://lunky.com/) awesome dude cycled around Australias coast line for 20 000km if you need inspiration.
+
+I'd think 4000km can be done in 2 months but 3 months would be a good investment to make it more enjoyable. Besides, it takes about 20 hours to fly to Australia from Finland so it would be boring to be there for such a short time. Even better idea would be to visit New Zealand right after Australia. 
+
+There is an awesome route across NZ: Tour Aotearea (TA). Read more about it [here](https://www.escapeadventuresnz.com/cycle-tours/tour-aotearoa-cape-reinga-to-bluff/) and [here](http://www.touraotearoa.nz/p/home.html). It's 3000km and you can do it in 1 month if you're hasty. However, there are amazing landscapes and hikes there that I would like to visit such as Mount Cook (3724m). I know from experience that NZ has really steep climbs with bike, too. So 2 months is minimum for the trip to be enjoyable and not just suffering 12 hours a day. Thus, Australia and NZ will take almost 6 months in total.
+
+## Afro-Eurasia
+
+## Antarctica
+
+Some people have biked here. I myself am not ready for it yet.
+
+## Other
+
+- Hawaii would be cool
+- Polynesia has lots of interesting islands
+- Japan is a must-go for me
+- Greendland and Iceland are on my bucket list
+- Novaja Zemlja is interesting. Definitely not biker friendly but interesting
+- I don't know anything about Madagaskar but I'd like to find out
+- Taiwan is a good place for bicyclists
+
+That's it. Please don't be offended if the piece of land you love wasn't listed. Please contact me if you think your country is the best place ever for my tour.
