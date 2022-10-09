@@ -125,9 +125,14 @@ Other than that I think I've seen Europe enough and it's time for me to move on 
 
 I have never been to Asia. I don't count transferring in Singapore as visiting. But I'd really love to. My favorite place would be of course Japan. Cycling around it would be about 4000km and it would take a longer time than 2 months since most of the country is mountainous and there are lots of cool places to see. The length of the tourist visa is three months. I think I could try to squeeze my visit to that time and extend it or come back if necessary/possible.
 
-I would like to visit all regions in Asia except North Asia (Siberia) since that area is way too cold and harsh for now. In Western Asia I'd like to visit Turkey, Georgia, Armenia, Azerbaidjan, Iraq and Iran. I don't know anything about Central Asia (the 'stans) but I'd like to visit some of them. The mountains are a major 
+I would like to visit all regions in Asia except North Asia (Siberia) since that area is way too cold and harsh for now. In Western Asia I'd like to visit Turkey, Georgia, Armenia, Azerbaidjan, Iraq and Iran. I don't know anything about Central Asia (the 'stans) but I'd like to visit some of them. The mountains are a major feature in Central Asia landscape:
 
 ![coolmap]({{site.baseurl}}/assets/reddit-cool-map.webp)
+
+Another map shows the borders of the countries:
+
+![central-asia]({{site.baseurl}}/assets/Central-Asia-political-physical-elevation-map.webp)
+
 
 I used [The Finnish Ministry for Foreign Affairs](https://um.fi/matkustustiedotteet-a-o) to find out what's going on in each of these countries and it's not looking too good.
 
