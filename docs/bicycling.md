@@ -88,6 +88,34 @@ Jenny Graham bicycled around the world totally unsupported. Her route is similar
 
 ![jenny-graham]({{site.baseurl}}/assets/jenny-graham.jpg)
 
+Paola Gianetti finished her 29430km trip in 144 days.
+
+Juliana Buhring did 18000 miles in 152 days visiting 4 continents and 19 countries. Surprisingly little amount of countries don't you think for such a long trip? I couldn't find a picture or a satellite map of her journey but this instead:
+
+Italy is the starting point then:
+-France
+-Spain
+-Portugal
+-USA
+-New Zealand
+-Australia
+-Malaysia
+-Thailand
+-India
+-Turkey
+-Greece
+-Macedonia
+-Albania
+-Montenegro
+-Bosnia
+-Croatia
+-Slovenia
+
+Nick Sanders has cycled and motorcycled around the world seven times. I could not find his bicycle route for his 1981 or 1984 bike tours.
+
+[Alastair Humphreys](https://alastairhumphreys.com/roundtheworldbybike/) did plan an awesome route. He really did take his time while bicycling 4 years in 4 continents, 60 countries and 46000 miles.
+
+![alastair-humphreys]({{site.baseurl}}/assets/alastair-humphreys.png)
 
 # Route planning
 
@@ -258,3 +286,11 @@ I have to find out what kind of climate there is in the countries I visit and ma
 ### Road condition
 
 I have to micro optimize the route to avoid highways (4 lanes, cars driving 100km/h) and muddy roads.
+
+### Guiness World Records and what is a trip around the world
+
+GWR rules state that the journey should be continuous and in one direction (East to West or West to East), that the minimum distance ridden should be 18,000 miles (29,000 km), and that the total distance travelled by the bicycle and rider should exceed an Equator's length. Any considerable distance travelled opposite to the direction of the attempt must be discounted from any calculations of the overall distance travelled. The route must be ridden through two approximate antipodal points.
+
+The requirement to pass at least two antipodal points causes some problems in route planning. For example, among popular countries for around-the-world cyclists, the antipodes of Australia is spread out over the Atlantic Ocean, that of North America over the Indian Ocean, that of Africa over mid Pacific Ocean, and that of Europe and most of Asia over the South Pacific Ocean, without any land mass there. Those land areas would not give any opportunities for an antipodal pair while cycling. Some possible pairs are China/Argentina, Malaysia/Peru, and Spain/New Zealand (Madrid and Wellington fall within the ±5-degree difference permitted by Guinness). 
+
+Check the antipodes [here](https://engaging-data.com/antipodes-map/) for example or check the images [here](https://en.wikipedia.org/wiki/Antipodes).
