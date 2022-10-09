@@ -8,4 +8,4 @@ Hi. I'm Eljas Hyyrynen, a robotics M.Sc. I'm enthusiastic about programming, mat
 
 I keep this blog as a public collection of my work and interests.
 
-![mesh]({{ site.baseurl}}/assets/mesh.png)
+![mesh]({{site.baseurl}}/assets/mesh.png)

@@ -110,6 +110,37 @@ There is an awesome route across NZ: Tour Aotearea (TA). Read more about it [her
 
 ## Afro-Eurasia
 
+The biggest connected body of land in the planet consisting of 57% of world's land area. That means I can in theory travel around this continent for the rest of my life without ever taking a flight. Let's begin:
+
+### Europe
+
+My home. I've visited many of the 50-something countries belonging to Europe and cycled there a lot, too. It's easy for me to travel inside EU and ETA since I don't need any visas.
+
+Interesting routes for me would be from the northernmost point of Finland or Norway to Gibraltar, Spain and furter to Morocco and Africa. I have cycled in the Mediterranean and I got bored of it so I rerouted to the Alps. Italy-Slovenia-Croatia-Bosnia&Hertsegovina-Montenegro-Serbia-Kosovo-Albania-Greece would be an interesting one, too. The route spans from sand beaches to mountains and would be at least 3000km depending on how many of these countries I'd like to visit and which part of Italy the route would begin.
+
+Other than that I think I've seen Europe enough and it's time for me to move on to other parts of the world. Seeing the horrors of after-war Ukraine and visiting Chernobyl would be cool indeed. Visiting Russia would be cool one day but not yet. There are some kickass routes from Netherlands to Belgium and to France. There would definitely be cool routes in the Alps that I haven't visited yet. And the Carpathian mountains, too. I've heard lots of good things of Spain and Portugal. Italy is about 1000km long so one could have a long tour there, too. But it's too close. Too familiar. I need to challenge myself.
+
+
+### Asia
+
+I have never been to Asia. I don't count transferring in Singapore as visiting. But I'd really love to. My favorite place would be of course Japan. Cycling around it would be about 4000km and it would take a longer time than 2 months since most of the country is mountainous and there are lots of cool places to see. The length of the tourist visa is three months. I think I could try to squeeze my visit to that time and extend it or come back if necessary/possible.
+
+I would like to visit all regions in Asia except North Asia (Siberia) since that area is way too cold and harsh for now. In Western Asia I'd like to visit Turkey, Georgia, Armenia, Azerbaidjan, Iraq and Iran. I don't know anything about Central Asia (the 'stans) but I'd like to visit some of them. The mountains are a major 
+
+![coolmap]({{site.baseurl}}/assets/reddit-cool-map.webp)
+
+I used [The Finnish Ministry for Foreign Affairs](https://um.fi/matkustustiedotteet-a-o) to find out what's going on in each of these countries and it's not looking too good.
+
+- Iraq: risk of terrorism, lots of bombs and mines in forests, foreigners are kidnapped, Iraqi Airways are banned by EU, floods in the winter, sandstorms in the summer, hot and dry
+- Iran: political instability and protests, new sanctions to Iran, dangers in borders with Afghanistan, Iraq and Pakistan
+
+China is a controversial country. I don't say why but I'd really love to visit that country one day. Besides, it's a large country so avoiding it would make a RTW trip a bit difficult.
+
+
+
+### Africa
+
+
 ## Antarctica
 
 Some people have biked here. I myself am not ready for it yet.
