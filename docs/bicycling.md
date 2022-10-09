@@ -74,9 +74,20 @@ It is inevitable that the list of countries I can visit is really low if I want 
 
 # Review on all people who have cycled around the world (or are currently trying to)
 
+Guiness World Record breakers can be found [here](https://en.wikipedia.org/wiki/Around_the_world_cycling_record).
+
 Thomas Stevens was the first person to ride a bicycle around the world. It took him three years. He started from San Francisco and worked his way from west to east.
 
 ![thomas-stevens]({{site.baseurl}}/assets/thomas-stevens-route.png)
+
+Mark Beaumont has the supported record. His route:
+
+![mark-beaumont]({{site.baseurl}}/assets/mark-beaumont.png)
+
+Jenny Graham bicycled around the world totally unsupported. Her route is similar:
+
+![jenny-graham]({{site.baseurl}}/assets/jenny-graham.jpg)
+
 
 # Route planning
 
@@ -206,6 +217,10 @@ Australia can be probably reached without a flight by going to Malesia, Singapor
 Second leg: Americas
 Third leg: Australia and NZ
 Fourth leg: Morocco to West Africa
+Bonus: Japan
+Bonus 2: Iceland, Greendland
+Bonus 3: Lofotes of Norway
+Bonus 4: Nuorgam-Spain or Portugal
 
 # Parameters to optimize
 
