@@ -115,7 +115,7 @@ Nick Sanders has cycled and motorcycled around the world seven times. I could no
 
 [Alastair Humphreys](https://alastairhumphreys.com/roundtheworldbybike/) did plan an awesome route. He really did take his time while bicycling 4 years in 4 continents, 60 countries and 46000 miles.
 
-![alastair-humphreys]({{site.baseurl}}/assets/alastair-humphreys.png)
+![alastair-humphreys]({{site.baseurl}}/assets/alastair-humphreys.jpg)
 
 Jin from [Universe With Me](https://www.universewithme.com/) has spent her fair time around the world with more than 87000km cycled in 6 continents, 76 countries spanning over 4000 days. Her route can be found [here](https://www.google.com/maps/d/u/0/viewer?mid=1O6SspQxUOnoY-vKPOMbJJvAHG48&ll=25.63024166338775%2C117.47976895922443&z=2).
 
