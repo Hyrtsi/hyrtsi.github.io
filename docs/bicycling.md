@@ -2,6 +2,7 @@
 layout: page
 title: Bicycling
 permalink: /bicycling/
+comments: true
 ---
 
 Bicycling around the world. I can't think of any better way to use my limited lifetime. To explore the hidden gems of the world, learn about new cultures, challenge myself and feel the freedom.

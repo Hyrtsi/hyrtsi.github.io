@@ -41,6 +41,8 @@ plugins:
 header_pages:
   about.markdown
   bicycling.md
+disqus:
+  shortname: hyrtsi
 
 # Exclude from processing.
 # The following items will not be processed, by default.
