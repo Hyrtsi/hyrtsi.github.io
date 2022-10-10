@@ -55,3 +55,7 @@ A legendary deep learning figure
 ## [Jonathan Hui](https://jhui.github.io/)
 
 Machine learning articles
+
+## [Scott Sievert](https://stsievert.com/)
+
+Articles about math, python, ML, parallelism and more.

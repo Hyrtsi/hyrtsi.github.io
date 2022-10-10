@@ -90,6 +90,9 @@ Jenny Graham bicycled around the world totally unsupported. Her route is similar
 
 Paola Gianetti finished her 29430km trip in 144 days.
 
+![paola-gianetti]({{site.baseurl}}/assets/Gianetti-map.png)
+
+
 Juliana Buhring did 18000 miles in 152 days visiting 4 continents and 19 countries. Surprisingly little amount of countries don't you think for such a long trip? I couldn't find a picture or a satellite map of her journey but this instead:
 
 Italy is the starting point then:
@@ -120,6 +123,32 @@ Nick Sanders has cycled and motorcycled around the world seven times. I could no
 Jin from [Universe With Me](https://www.universewithme.com/) has spent her fair time around the world with more than 87000km cycled in 6 continents, 76 countries spanning over 4000 days. Her route can be found [here](https://www.google.com/maps/d/u/0/viewer?mid=1O6SspQxUOnoY-vKPOMbJJvAHG48&ll=25.63024166338775%2C117.47976895922443&z=2).
 
 ![jin]({{site.baseurl}}/assets/jin.jpg)
+
+[Cycle hacker](https://cyclehacker.com) used this route. I wish I was able to go to Iran and Pakistan like him...
+
+![cycle-hacker]({{site.baseurl}}/assets/cycle-hacker.png)
+
+[JKB's Bike Ride](https://jkbsbikeride.com/2018/01/29/around-the-world-by-bicycle-afterthoughts-16-01-15-17-12-17/) did this amazing route
+
+![jkbike]({{site.baseurl}}/assets/jkbike.webp)
+
+[She's Not Pedalling On The Back](https://shesnotpedallingontheback.com/) did a RTW trip using tandem.
+
+[Harry and Rolie](http://www.sintchristophorus.nl/harry-en-roelie-op-wereldreis-per-pilot-vamos/) chose a quite interesting route.
+
+[Chris Yee](https://www.lifeabundantconsulting.com/blog/2018/9/22/on-our-way) is swimming against the mainstream and bikes from east to west!
+
+[Scott Stoll](https://scottstoll.com/around-the-world-by-bicycle/how-to-ride-a-bicycle-around-the-world/) did this amazing route
+
+![scott-stoll]({{site.baseurl}}/assets/scottstoll.webp)
+
+[Two Far Gone](https://www.twofargone.com/) did this route
+
+![two-far]({{site.baseurl}}/assets/two-far-plan.jpg)
+
+This is the UK to Australia route by Nick Sanders
+
+![nick-sanders]({{site.baseurl}}/assets/uk-to--austr.jpg)
 
 # Route planning
 
@@ -156,6 +185,8 @@ There is an awesome route across NZ: Tour Aotearea (TA). Read more about it [her
 ## Afro-Eurasia
 
 The biggest connected body of land in the planet consisting of 57% of world's land area. That means I can in theory travel around this continent for the rest of my life without ever taking a flight. Let's begin:
+
+![afro-eurasia]({{site.baseurl}}/assets/afro-eurasia.png)
 
 ### Europe
 
