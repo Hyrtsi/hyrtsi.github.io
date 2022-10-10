@@ -39,8 +39,8 @@ plugins:
   - jekyll-remote-theme
   # - jekyll-latex # TODO: used?
 header_pages:
-  about.markdown
-  bicycling.md
+  - about.markdown
+  - bicycling.md
 disqus:
   shortname: hyrtsi
 
