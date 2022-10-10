@@ -43,3 +43,5 @@ This is just the basics of being found on Google search engine. You might want t
 Make sure as many websites as possible link to your website and bring traffic there. I am thinking of creating posts of the topics I've discussed here on major Q&A websites such as Stackoverflow and Quora and linking this page there. I'm also going to start writing articles on Medium and linking back here.
 
 I want to create short, simple and useful content and target especially on programming and tech newbies (I'm still one myself). Stay tuned for the next post!
+
+Study more [here](https://developers.google.com/search/docs/fundamentals/seo-starter-guide).
