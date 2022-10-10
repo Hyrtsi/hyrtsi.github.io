@@ -16,8 +16,8 @@ I am dreaming of cycling around the world but I still don't know how. My biggest
 - How to fund the trip?
 - Do I have to "ruin" my career in programming by quitting my awesome and well-paying job?
 - How to plan the route?
-  - [RateMyRoute and ZenCycling apps]
-  - Manually ()
+  - [RateMyRoute and ZenCycling apps](https://hyrtsi.github.io/bicycling-route-planner-app)
+  - [Manually](https://hyrtsi.github.io/bicycling-route-planning)
 - Is my bicycle and my gear good enough for the trip?
 - What happens to my social relationships during the tour?
 - Do I want to do it all in one go or split the trip into separate parts and come back to my home in the meantime?
@@ -31,11 +31,12 @@ I will collect here resources that are useful for me and hopefully are useful to
 # Index
 
 - [Other people who have cycled the world](https://hyrtsi.github.io/bicycling-study)
-- Next level path planning for long bicycle tours around the world
+- [Next level path planning for long bicycle tours around the world](https://hyrtsi.github.io/bicycling-route-planner-app)
   - [Visas](https://www.visahq.com/)
   - Weather
   - Security
   - Road condition
+  - [Other criteria](https://hyrtsi.github.io/bicycling-route-planning)
 - Building the perfect bicycle for a long tour
 - What to take with you
 - Funding
