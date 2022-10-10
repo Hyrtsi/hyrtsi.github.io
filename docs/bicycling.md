@@ -30,10 +30,10 @@ I will collect here resources that are useful for me and hopefully are useful to
 
 - [Other people who have cycled the world](https://hyrtsi.github.io/bicycling-study)
 - Next level path planning for long bicycle tours around the world
--- [Visas](https://www.visahq.com/)
--- Weather
--- Security
--- Road condition
+  - [Visas](https://www.visahq.com/)
+  - Weather
+  - Security
+  - Road condition
 - Building the perfect bicycle for a long tour
 - What to take with you
 - Funding
