@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Bicycling Study
-permalink: /bicycling/study
 ---
 
 Hello, just testing...
+
+https://thenextchallenge.org/round-world-cyclists-kit-lists/
