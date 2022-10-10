@@ -38,6 +38,9 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   # - jekyll-latex # TODO: used?
+header_pages:
+  about.markdown
+  bicycling.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
