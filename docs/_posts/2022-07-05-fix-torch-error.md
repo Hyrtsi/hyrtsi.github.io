@@ -117,19 +117,6 @@ ONNX export success, saved as yolov6s.onnx
 Export complete (3.32s)
 ```
 
-You can check the CUDA architectures that are supported for your pytorch like this:
-```
-foo@bar:~/source/YOLOv6$ python3
-Python 3.8.10 (default, Mar 15 2022, 12:22:08) 
-[GCC 9.4.0] on linux
-Type "help", "copyright", "credits" or "license" for more information.
->>> import torch
->>> torch.cuda.get_arch_list()
-['sm_37', 'sm_50', 'sm_60', 'sm_70']
->>> print(torch.__version__)
-1.11.0+cu102
-```
-
 I found the answer [here](https://github.com/meituan/YOLOv6/issues/350)
 
 
