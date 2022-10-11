@@ -21,7 +21,7 @@
 title: Hyrtsi codes
 email: eljas.hyyrynen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Programming
+  A personal blog about programming and bicycling
 baseurl: ""
 url: "https://hyrtsi.github.io"
 
@@ -37,7 +37,7 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  # - jekyll-latex # TODO: used?
+  - jekyll-seo-tag
 header_pages:
   - about.markdown
   - bicycling.md
