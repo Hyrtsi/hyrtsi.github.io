@@ -7,14 +7,14 @@ title: Bicycling Study
 # Route planning
 
 There are four big connected bodies of land in the world:
-- Afro-Eurasia
-- Americas
-- Australia
-- Antarctica
+- [Americas](#americas)
+- [Afro-Eurasia](#afro-eurasia)
+- [Australia](#australia)
+- [Antarctica](#antarctica)
 
 In addition to this, there are notable islands such as Iceland, the UK, Madagascar, New Zealand, Japan, Greenland and Polynesia to name a few. If it was possible I'd like to visit every single of them. But since my time and money are limited I have to rank everything and pick the ones I am the most curious about.
 
-## Americas
+## <a name="americas"></a>Americas
 
 Route planning for Americas is quite straightforward to me so I will start with it. I can choose to go from Alaska to Argentina or to stick with the US of A and go from San Diego to Boston. These lands have been explored with bicycles many many times so I think this would be a no-brainer. Some South American countries could be dangerous and I could face tons of bears in Alaska but I don't worry about that too much.
 
@@ -23,7 +23,7 @@ There are some amazing established routes such as The Great Divide [and more](ht
 
 I think it would make sense to "complete" this section of the trip separately and use as much time as possible for it. I think the west to east USA tour could be done in 6-12 months and south to north in 1-3 years depending on ... everything (the route, speed, time spent on each country, amount of countries visited, amount of sidequests done). That would give me an excellent reason to practise my Spanish skills, too.
 
-## Australia
+## <a name="australia"></a>Australia
 
 I'm not too excited about Australia yet. I've heard it has the craziest animals and difficult wind conditions. It also has a lot of friendly people and the longest straight road in the world. Wikipedia told me that Australia is the world's sixth-largest country so it has a lot of area. It also has a lot of uninhabitated land and wilderness which isn't exactly suited for bicycling. I'm not a fan of big empty spaces. But to counter that it is the flattest country in the world and a so-called megadiverse country with lots of different climates and landscapes from tropical rainforests to deserts and mountains.
 
@@ -36,7 +36,7 @@ I'd think 4000km can be done in 2 months but 3 months would be a good investment
 
 There is an awesome route across NZ: Tour Aotearea (TA). Read more about it [here](https://www.escapeadventuresnz.com/cycle-tours/tour-aotearoa-cape-reinga-to-bluff/) and [here](http://www.touraotearoa.nz/p/home.html). It's 3000km and you can do it in 1 month if you're hasty. However, there are amazing landscapes and hikes there that I would like to visit such as Mount Cook (3724m). I know from experience that NZ has really steep climbs with bike, too. So 2 months is minimum for the trip to be enjoyable and not just suffering 12 hours a day. Thus, Australia and NZ will take almost 6 months in total.
 
-## Afro-Eurasia
+## <a name="afro-eurasia"></a>Afro-Eurasia
 
 The biggest connected body of land in the planet consisting of 57% of world's land area. That means I can in theory travel around this continent for the rest of my life without ever taking a flight. Let's begin:
 
@@ -94,11 +94,11 @@ I have heard lots of good things about Morocco. Peyman from [Nomad's Trails](htt
 
 I think I'll do a separate trip to Africa when it's time for that. Covid, extreme weather and Russian attacking Ukraine has done a lot of bad things for Africa so I'm not surprised there is a lot of tension.
 
-## Antarctica
+## <a name="antarctica"></a>Antarctica
 
 Some people have biked here. I myself am not ready for it yet.
 
-## Other
+## <a name="other"></a>Other
 
 - Hawaii would be cool
 - Polynesia has lots of interesting islands
