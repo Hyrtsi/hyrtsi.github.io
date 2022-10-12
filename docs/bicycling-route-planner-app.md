@@ -3,6 +3,8 @@ layout: page
 title: Bicycling Study
 ---
 
+This post is part of my [bicycling series]({% post_url bicycling %})
+
 I have planned bicycling routes for long bicycle tours using Google Maps and Eurovelo routes.
 However,
 - Google Maps doesn't always give any bicycling route at all in some countries or on mobile
@@ -44,3 +46,10 @@ RateMyRoute is more like git code review for cycling paths: you can discuss abou
 
 I'm working as a full time tech lead on Basemark 9-5 currently. So not anytime soon. I estimate that it will take me 2 years to plan my route around the world manually. These two applications are part of my planning. Implementing them will definitely take some time.
 If you're a cyclist and/or programmer and would like to use, comment, collaborate or donate to this work, please let me know.
+
+## Market research
+
+But why am I inventing wheel again? Aren't there already a dozen apps that do what I want? Why should I create another app?
+
+![xkcd-standards](https://imgs.xkcd.com/comics/standards.png)
+
