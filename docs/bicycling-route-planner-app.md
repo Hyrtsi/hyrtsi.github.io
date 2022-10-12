@@ -4,7 +4,7 @@ title: Bicycling Study
 tag: bicycle
 ---
 
-This post is part of my [bicycling series]({% page_url bicycling %})
+This post is part of my [bicycling series](https://hyrtsi.github.io/bicycling/).
 
 I have planned bicycling routes for long bicycle tours using Google Maps and Eurovelo routes.
 However,
