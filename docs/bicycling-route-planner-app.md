@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bicycling Study
+tag: bicycle
 ---
 
 This post is part of my [bicycling series]({% post_url bicycling %})
