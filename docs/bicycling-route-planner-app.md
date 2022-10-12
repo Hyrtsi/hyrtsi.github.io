@@ -60,4 +60,11 @@ I don't think the other apps have what it takes. But here we go. I have download
 
 An awesome app. But it is not suitable for planning routes around the world. It is more like a collection of shorter trails of a few kilometers to tens of kilometers.
 
+### Bicycle Route Navigator
+
+A beautiful app with almost 47,000 miles of cycling routes throughout North America. If you need routes there this is your app. You have a selection of free routes and the option to buy more routes. If you want to travel around the world this app will cover only a small portion of your route. Nonetheless it's worth having.
+
+![bike-route-app]({{site.baseurl}}/assets/bicycle-route-nav-app.jpg)
+
+
 (More to come later)
