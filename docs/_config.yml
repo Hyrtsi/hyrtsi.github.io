@@ -63,3 +63,7 @@ disqus:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Tag cloud
+# https://www.stefan.lu/blog/tag-cloud-in-jekyll-no-plugins/
+tag_dir: tag

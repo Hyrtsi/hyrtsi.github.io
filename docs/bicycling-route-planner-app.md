@@ -56,6 +56,7 @@ But why am I inventing wheel again? Aren't there already a dozen apps that do wh
 
 I don't think the other apps have what it takes. But here we go. I have downloaded all the major mobile apps and I have tested them. Here are the results
 
+
 ### AllTrails
 
 An awesome app. But it is not suitable for planning routes around the world. It is more like a collection of shorter trails of a few kilometers to tens of kilometers.
