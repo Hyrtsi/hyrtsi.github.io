@@ -13,7 +13,12 @@
       </div>
     </main>
 
-    {%- include footer.html -%}
+    <div class="sidenav">
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Clients</a>
+        <a href="#">Contact</a>
+      </div>
 
     {% assign all_tags = '' | split: ',' %}
 
@@ -45,6 +50,10 @@
         {% endfor %}
       </ul>
       
+      
+      {%- include footer.html -%}
+
+
   </body>
   <script
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
