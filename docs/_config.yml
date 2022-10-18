@@ -63,8 +63,3 @@ disqus:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# TODO: needed?
-# markdown: kramdown
-# kramdown:
-#   math_engine: katex
