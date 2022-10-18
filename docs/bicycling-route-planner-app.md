@@ -67,5 +67,93 @@ A beautiful app with almost 47,000 miles of cycling routes throughout North Amer
 
 ![bike-route-app]({{site.baseurl}}/assets/bicycle-route-nav-app.jpg)
 
+### Bikemap
+
+We used this map a lot on our way from Finland to Romania along East Europe. It's good. But it's not perfect. Sometimes it directed us to quite bad road.
+
+It has a lot of good features
+- Offline maps
+- Navigation
+
+Most importantly this is first application of the ones I've reviewed so far that is capable of actually getting you navigated around the world.
+
+### BikeTracker
+
+A GPS app that can measure your speed. Not a route planner.
+
+### Cyclers
+
+What a name for an app.
+It's simple, minimalistic and looks neat.
+I tried to create a route from Kaunas to Suwalki and it said `the route planner is not available`.
+What a bummer.
+Kaunas-Vilnius worked fine. It shows the route match, distance, ride time, energy, elevation profile, saved emissions, surface and traffic.
+The app also lets you edit the planned route manually.
+
+### Eurovelo
+
+Eurovelo has their own app.
+However, it's not so good.
+I wouldn't recommend using it for planning routes or navigating because that app doesn't have those features.
+
+### Google Maps
+
+I love this app. Maybe a bit too much. I should review the mobile and the browser versions separately.
+
+### Komoot
+
+### Ride With GPS
+
+Recording routes is the main feature of this app.
+Then you have a collection of routes recorded by the users.
+Saving and navigating routes created with route planned requires a paid account.
+However, you can create routes with a free account.
+Creating the routes is quite fast. It shows the length of the route, elevation profile and amount of paved vs unpaved.
+There is no option to choose between options such as maximum amount of paved, fastest route, least climbing.
+I tried a couple of routes and even though the UI is minimal and the options nonexistent the routes were quite good.
+The route planner option was hidden quite well.
+
+
+### Openstreetmap
+
+### https://www.plotaroute.com/
+
+### Strava
+
+### Osmand
+
+### Paper maps
+
+Yes. The good old physical ones. This isn't a mobile app.
+
+- Find them in the local bookstores or gas stations or order online if they even exist
+- Cut the unnecessary parts away (if any)
+- Mark POIs with a pen
+- Protect them from weather
+- Have fun
+
+Another option that I used to do back in the days: take a photo of the maps with your smartphone and access the maps via image viewer.
+You can do so in aeroplane mode and with battery saver.
+I did this when hiking and it totally saved my battery.
+No GPS though so you have to stay awake.
+Shouldn't be too difficult if you have a lot of straight road and easy landmarks to follow.
+
+### Maps.me
+
 
 (More to come later)
+
+
+Reddit u/lightbulbphone says: "From Turkey eastwards you're hardly navigating with much difficulty as there's only a few roads you can take!"
+
+### Offline maps
+
+There are dozens and dozens of offline map apps.
+For routes with simple, linear path planning you can consider one of these.
+
+### OsmAnd
+
+This looked like an app for primarly offline maps. But it also has google maps -like planning for bicycles, cars and pedestrians.
+This app will not let you plan route unless you download the necessary maps for that route. 
+So for a route around the world prepare to download a few gigabytes of maps first.
+All in all looks like a basic and decent app.
