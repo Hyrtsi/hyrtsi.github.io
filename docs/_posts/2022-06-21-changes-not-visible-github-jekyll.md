@@ -2,6 +2,7 @@
 layout: post
 title:  "Why are my changes on Github Jekyll site not visible?"
 date:   2022-06-20 17:47:25 +0200
+tags: jekyll githubpages
 ---
 
 # Why are my changes on Github Jekyll site/blog not visible?

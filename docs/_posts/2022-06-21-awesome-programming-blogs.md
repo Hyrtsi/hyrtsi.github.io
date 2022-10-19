@@ -2,6 +2,7 @@
 layout: post
 title:  "Awesome programming blogs"
 date:   2022-06-20 17:50:25 +0200
+tags: programming blogs
 ---
 
 Nothing's better than reading rants and insights about programming, computer science and Silicon Valley lyfe while your testsuite is running and you have a cup of coffee in front of you.

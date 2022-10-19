@@ -2,6 +2,7 @@
 layout: post
 title:  "Jekyll + Github pages: Why isn't your theme working on remote even though it works locally?"
 date:   2022-03-24 21:27:25 +0200
+tags: jekyll githubpages
 ---
 
 Your Jekyll page looks amazing. It's time to deploy. But one problem: after you deploy the page doesn't look anything like it was earlier.

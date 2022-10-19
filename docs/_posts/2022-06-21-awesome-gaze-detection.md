@@ -2,7 +2,7 @@
 layout: post
 title:  "Awesome Gaze Detection"
 date:   2022-06-21 11:47:25 +0200
-categories: 
+tag: ml
 ---
 
 # Awesome gaze detection repositories

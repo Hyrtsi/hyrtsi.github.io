@@ -2,6 +2,7 @@
 layout: post
 title:  "Fix Pytorch Error with Yolov6"
 date:   2022-07-05 13:37:00 +0200
+tags: pytorch yolov6 ml
 ---
 
 I was testing the [new yolov6 repo](https://github.com/meituan/YOLOv6) and I confronted this error when trying to export a model:

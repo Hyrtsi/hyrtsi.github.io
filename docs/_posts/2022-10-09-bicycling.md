@@ -2,6 +2,7 @@
 layout: post
 title:  "Bicycling around the world"
 date:   2022-10-09 13:37:11 +0200
+tags: bicycling travelling
 ---
 
 I have created some pages here about my dream to cycle around the planet in one multi-year trip or in several pieces.

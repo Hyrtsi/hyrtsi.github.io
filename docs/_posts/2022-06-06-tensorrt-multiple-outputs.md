@@ -2,6 +2,7 @@
 layout: post
 title:  "Returning multiple outputs from a TensorRT model inference"
 date:   2022-06-06 13:37:00 +0200
+tags: ml tensorrt
 ---
 
 [TensorRT](https://developer.nvidia.com/tensorrt) is the de facto SDK for optimizing neural network inference on [Nvidia devices](https://developer.nvidia.com/cuda-gpus). There are some great resources out there for using TensorRT, but there is one question I did not find answer anywhere:

@@ -2,7 +2,7 @@
 layout: post
 title:  "How to be found on Google"
 date:   2022-03-24 20:47:25 +0200
-categories: 
+tags: seo jekyll githubpages
 ---
 
 ## How to make your `github.io` page visible on Google search:
