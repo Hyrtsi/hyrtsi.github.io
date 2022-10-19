@@ -38,12 +38,15 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-tagging
 header_pages:
   - about.markdown
   - bicycling.md
   - tags.md
 disqus:
   shortname: hyrtsi
+tag_page_layout: tag_page
+tag_page_dir: tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
