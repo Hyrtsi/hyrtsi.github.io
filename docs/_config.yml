@@ -40,13 +40,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-tagging
 header_pages:
-  - about.markdown
+  - about.md
   - bicycling.md
   - tags.md
 disqus:
   shortname: hyrtsi
-tag_page_layout: tag_page
-tag_page_dir: tag
+# tag_page_layout: tag_page
+# tag_page_dir: tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -70,4 +70,4 @@ tag_page_dir: tag
 
 # Tag cloud
 # https://www.stefan.lu/blog/tag-cloud-in-jekyll-no-plugins/
-tag_dir: tag
+# tag_dir: tag

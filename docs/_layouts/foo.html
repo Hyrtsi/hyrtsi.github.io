@@ -3,15 +3,13 @@
 
   {%- include head.html -%}
 
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
+
   <body>
 
     {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
 
     <span>[
         {% for tag in page.tags %}
@@ -20,6 +18,14 @@
         {% endfor %}
       ]</span>
       
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+
+
     {%- include footer.html -%}
 
   </body>
