@@ -4,8 +4,6 @@ title: Tags
 permalink: /tags/
 ---
 
-Tips here: https://jekyllrb.com/docs/posts/
-
 {% assign all_tags = '' | split: ',' %}
 
 {% for post in site.posts %}
