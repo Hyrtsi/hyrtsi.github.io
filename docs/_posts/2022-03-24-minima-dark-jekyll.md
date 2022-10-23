@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "How to use minima dark theme on Jekyll pages"
+title:  "How to use minima dark theme on Jekyll + Github pages"
 date:   2022-03-24 19:47:25 +0200
 tags: jekyll githubpages
 author: "Eljas Hyyrynen"
 ---
 
-# How to use Minima dark theme on your Jekyll pages
-
-This guide assumes that you have already set up your Jekyll pages using Github pages or similar.
+This guide assumes that you have already set up your Jekyll pages using Github pages or similar and you want to change your theme.
 
 1. Change the `gem "minima"` line in the `Gemfile` as follows so it contains the github repo link
 
