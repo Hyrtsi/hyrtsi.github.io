@@ -4,8 +4,7 @@ title: Tags
 permalink: /tags/
 ---
 
-<!-- Not needed?
-{% assign all_tags = '' | split: ',' %}
+<!-- {% assign all_tags = '' | split: ',' %}
 
 {% for post in site.posts %}
     {% for tags in post.tags %}
@@ -16,8 +15,14 @@ permalink: /tags/
 {% endfor %}
 
 {% assign all_tags = all_tags | sort %}
-{% assign all_tags = all_tags | uniq %}
--->
+{% assign all_tags = all_tags | uniq %} -->
+
+
+{%- for tag in site.tags -%}
+  <a style="font-size: {{ tag | last | size  |  times: 40 | plus: 60  }}%">{{ tag[0] | append: " "}}</a>
+{%- endfor -%}
+
+<br/>
 
 ---
 
