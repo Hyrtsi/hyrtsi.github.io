@@ -47,7 +47,7 @@ I'm going to walk you through all the necessary code to run a model with one inp
 
 #### Index
 - [Dependencies](#model)
-- [c++ code](#cpp-example)
+- [c++ code](#cppexample)
 
 ## <a name=model></a>The model
 
@@ -212,7 +212,7 @@ Congratulations. Now you have the model. Let's use it for something cool next.
 
 ---
 
-## <a name=cpp-example></a>Loading TensorRT .engine in c++
+## <a name=cppexample></a>Loading TensorRT .engine in c++
 
 We will base our code to [this](https://github.com/noahmr/yolov5-tensorrt) amazing repository.
 
