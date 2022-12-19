@@ -60,3 +60,12 @@ Machine learning articles
 ## [Scott Sievert](https://stsievert.com/)
 
 Articles about math, python, ML, parallelism and more.
+
+https://openai.com/blog/
+
+https://gdude.de/blog/
+
+https://lexfridman.com/
+
+https://alextardif.com/LearningGraphics.html
+

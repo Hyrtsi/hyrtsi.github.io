@@ -102,6 +102,15 @@ I love this app. Maybe a bit too much. I should review the mobile and the browse
 
 ### Komoot
 
+This is one of the best apps for route planning. You can choose between several different bicycling types. You can also specify your fitness level.
+It has the elevation profiles of the route and road surface types.
+However, the app does not reveal why it chose the specific path.
+Probably just an optimization problem.
+I would appreciate if the app would show more clearly where the highways are.
+
+Komoot is free. You can get offline maps with a modest one-time payment. The price depends on which maps you take.
+You can get premium features for 5 euros a month.
+
 ### Ride With GPS
 
 Recording routes is the main feature of this app.
@@ -113,12 +122,17 @@ There is no option to choose between options such as maximum amount of paved, fa
 I tried a couple of routes and even though the UI is minimal and the options nonexistent the routes were quite good.
 The route planner option was hidden quite well.
 
+### MapMyRide
+
+Requires registration. I didn't test this app. According to Play store it is only a sports tracker.
 
 ### Openstreetmap
 
 ### https://www.plotaroute.com/
 
 ### Strava
+
+It has routes. But no route planning. Just tracks your GPS and you can share those routes with the community
 
 ### Osmand
 
