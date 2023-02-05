@@ -38,6 +38,7 @@ minima:
     - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/12871003/eljas-hyyrynen"}
     - { platform: instagram, user_url: "https://instagram.com/hyrtsimyrtsi/"}
     - { platform: linkedin, user_url: "https://linkedin.com/in/eljashyyrynen"}
+  google_analytics: G-T7LR95T6F9
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
