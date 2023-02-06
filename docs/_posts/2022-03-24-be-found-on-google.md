@@ -10,7 +10,7 @@ tags: seo jekyll githubpages
 - Go to [https://search.google.com](https://search.google.com)
 - Add property
 - Paste your github url there: `https://<username>.github.io`
-  - Pay attention to the exact form that it's written in: `https://` is the oene that github pages use
+  - Pay attention to the exact form that it's written in: `https://` is the one that github pages use
 - Download their html file. Let's call it `google-1234.html`.
 - Add it to your website so that `https://<username>.github.io/google-1234.html` is reachable by their bot
   - This happens by merely adding the `.html` file provided to your project root
