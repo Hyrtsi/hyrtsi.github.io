@@ -61,11 +61,19 @@ Machine learning articles
 
 Articles about math, python, ML, parallelism and more.
 
-https://openai.com/blog/
+## [OpenAI](https://openai.com/blog/)
 
-https://gdude.de/blog/
+Breakthroughs by a big AI research company.
 
-https://lexfridman.com/
+## [Gdude](https://gdude.de/blog/)
 
-https://alextardif.com/LearningGraphics.html
+Blog by a Ccomputer vision PhD working in FAANG & a Kaggle master.
+
+## [Lex Fridman](https://lexfridman.com/)
+
+Well, you know him. A famous podcast author, deep learning guru.
+
+## [Alex Tardif](https://alextardif.com/LearningGraphics.html)
+
+Posts about graphics & gamedev.
 
