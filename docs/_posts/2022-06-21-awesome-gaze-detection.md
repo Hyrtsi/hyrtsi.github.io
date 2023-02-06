@@ -61,15 +61,10 @@ An awesome repo containing demo for MPIIGaze, MPIIFaceGaze, ETH-XGaze. It is rea
 
 [iitmcvg/eye-gaze](https://github.com/iitmcvg/eye-gaze)
 
-## L2CS-Net
+## [https://github.com/Ahmednull/L2CS-Net](L2CS-Net)
 
-https://github.com/Ahmednull/L2CS-Net
+## [https://github.com/yihuacheng/Gaze-Net](Gaze-Net)
 
-## Gaze-Net
+## [https://github.com/david-wb/gaze-estimation](Gaze-estimation)
 
-https://github.com/yihuacheng/Gaze-Net
-
-## Gaze-estimation
-
-https://github.com/david-wb/gaze-estimation
 
