@@ -10,6 +10,7 @@ My jekyll build is broken and my site does not update anymore.
 
 It seems that when I test locally (or check Github actions) I see this:
 
+{% raw %}
 ```
 my@pc:~/source/hyrtsi.github.io/docs$ bundle exec jekyll serve
 Configuration file: source/hyrtsi.github.io/docs/_config.yml
@@ -117,6 +118,8 @@ Valid syntax:
 
   {% include file.ext param='value' param2='value' %}
 ```
+{% endraw %}
+
 
 Wtf? What did I do?
 
