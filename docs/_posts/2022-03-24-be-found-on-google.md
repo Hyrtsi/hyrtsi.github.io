@@ -7,7 +7,7 @@ tags: seo jekyll githubpages
 
 ## How to make your `github.io` page visible on Google search:
 
-- Go to [https://search.google.com](https://search.google.com)
+- Go to [Google Search Console Tools](https://search.google.com/search-console/about)
 - Add property
 - Paste your github url there: `https://<username>.github.io`
   - Pay attention to the exact form that it's written in: `https://` is the one that github pages use
