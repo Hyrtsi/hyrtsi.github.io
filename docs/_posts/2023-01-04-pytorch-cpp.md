@@ -55,9 +55,9 @@ Even though most ML happens in Python it's good to know that there is a good too
 
 # Sources
 
-- https://michhar.github.io/how-i-built-pytorch-gpu/
-- https://github.com/pytorch/pytorch/blob/master/docs/libtorch.rst
-- https://gist.github.com/lasagnaphil/3e0099816837318e8e8bcab7edcfd5d9
-- https://stackoverflow.com/questions/74944881/building-libtorch-from-source-gives-unexpected-contents
-- https://pytorch.org
-- https://github.com/pytorch/pytorch
+- [https://michhar.github.io/how-i-built-pytorch-gpu](https://michhar.github.io/how-i-built-pytorch-gpu)
+- [https://github.com/pytorch/pytorch/blob/master/docs/libtorch.rst](https://github.com/pytorch/pytorch/blob/master/docs/libtorch.rst)
+- [https://gist.github.com/lasagnaphil/3e0099816837318e8e8bcab7edcfd5d9](https://gist.github.com/lasagnaphil/3e0099816837318e8e8bcab7edcfd5d9)
+- [https://stackoverflow.com/questions/74944881/building-libtorch-from-source-gives-unexpected-contents](https://stackoverflow.com/questions/74944881/building-libtorch-from-source-gives-unexpected-contents)
+- [https://pytorch.org](https://pytorch.org)
+- [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
