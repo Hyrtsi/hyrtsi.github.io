@@ -177,7 +177,7 @@ If we have `44100` samples each second and a signal of `440` Hz, each of the per
 How can we achieve this in the code?
 We create a linear interpolation between the minimum (`0`) and the maximum (`65535`).
 For the example above, we calculate how much we need to increment the signal so that in `44100/440 = 100` increments it goes from `0` to `65535`.
-This is simple math.
+
 
 ## Conclusions
 
