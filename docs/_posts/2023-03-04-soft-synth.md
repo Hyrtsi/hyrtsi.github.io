@@ -166,7 +166,7 @@ The idea:
 I reasoned this to myself as follows.
 The signal looks like this
 
-![saw](https://upload.wikimedia.org/wikipedia/commons/8/82/Sawtooth-td_and_fd.png)
+![saw](https://upload.wikimedia.org/wikipedia/commons/d/d4/Synthesis_sawtooth.gif)
 
 look at the first period of the signal. 
 We want to define that the first point, the lowest point is `0` in our unsigned integer terms and the highest point is `65535`.
