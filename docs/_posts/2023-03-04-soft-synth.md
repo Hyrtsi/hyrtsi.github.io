@@ -6,16 +6,11 @@ tags: audio c++
 author: Eljas Hyyrynen
 ---
 
-I love music.
-I totally love the fact that humans can create sounds in various ways.
-That's why I've spent countless of moments in my life with guitar, piano, singing, DJing as well as acoustics and digital signal processing.
+I love music and programming so it's a natural extension to try to create sounds using programming.
+In this post we will create a naive and simple to understand program that creates a sound, an audio equivalent of `Hello World`.
+We will work our way from there towards something more sophisticated.
 
-It's only natural to try to create sounds using programming.
-I like to introduce topics by showing the most simple possible program to do the thing.
-In this case it would be showing a simple code that plays a sound.
-
-As for graphics programming, I think [SFML](https://www.sfml-dev.org/) abstracts the unnecessary details of the audio pipeline.
-Let's create the audio equivalent of `Hello World`.
+As in graphics programming, I think [SFML](https://www.sfml-dev.org/) abstracts the unnecessary details of the audio pipeline for the purposes of a gentle introduction to the topic.
 
 ## Dependencies
 
@@ -178,16 +173,13 @@ How can we achieve this in the code?
 We create a linear interpolation between the minimum (`0`) and the maximum (`65535`).
 For the example above, we calculate how much we need to increment the signal so that in `44100/440 = 100` increments it goes from `0` to `65535`.
 
+## Improvements
 
-## Conclusions
+I got a rather crackling sound with the code.
+I studied a little bit and found out a few things:
+- SFML has `SoundStream` for a continuous stream of sound. [Tutorial](https://www.sfml-dev.org/tutorials/2.5/audio-streams.php) [Reference](https://www.sfml-dev.org/documentation/2.5.1/classsf_1_1SoundStream.php)
+- There will be discontinuity in the data unless you use `free spinning oscillator` to create the sample as explained [here](https://github.com/Atrix256/MusicSynth/blob/master/Audio%20Synthesis%20For%20Music.pdf) (slide 7 on popping)
 
-I showed how you can create and play sounds digitally.
-I didn't explain what SFML does under the hood.
-I didn't explain how do audio cards and drivers work.
-I didn't explain how synthesizers work.
-
-Please refer to the section below if you're hungry for more information.
-I hope this helped you to get started on your DSP / synth / audio quest.
 
 ## More reading
 
