@@ -177,7 +177,7 @@ For the example above, we calculate how much we need to increment the signal so 
 
 I got a rather crackling sound with the code.
 I studied a little bit and found out a few things:
-- SFML has `SoundStream` for a continuous stream of sound. [Tutorial](https://www.sfml-dev.org/tutorials/2.5/audio-streams.php) | [Reference](https://www.sfml-dev.org/documentation/2.5.1/classsf_1_1SoundStream.php)
+- SFML has `SoundStream` for a continuous stream of sound. [Tutorial](https://www.sfml-dev.org/tutorials/2.5/audio-streams.php) / [Reference](https://www.sfml-dev.org/documentation/2.5.1/classsf_1_1SoundStream.php)
 - There will be discontinuity in the data unless you use `free spinning oscillator` to create the sample as explained [here](https://github.com/Atrix256/MusicSynth/blob/master/Audio%20Synthesis%20For%20Music.pdf) (slide 7 on popping)
 
 
