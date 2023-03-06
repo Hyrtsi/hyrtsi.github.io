@@ -186,7 +186,7 @@ I studied a little bit and found out a few things:
 If you want to learn more in-depth about digital signal processing, digital audio and synthesizers, I suggest the following resources:
 - Music: a Mathematical Offering by David J. Benson. [Link](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
 - Julius O. Smith's numerous teachings. [Link](https://ccrma.stanford.edu/~jos/)
-- Aalto University courses. Or any other university for that matter. I suggest the following courses and topics:
+- University courses on the following topics:
   - Acoustics and the physics around sound and voice
   - Electronics if you're into analog synthesizers
   - Mathematics. Lots of it. Especially Fourier analysis, calculus and complex analysis
