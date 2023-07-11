@@ -9,10 +9,12 @@ I have created some pages here about my dream to cycle around the planet in one 
 
 [Main](https://hyrtsi.github.io/bicycling/)
 - [Study of other peoples' journeys](https://hyrtsi.github.io/bicycling-study)
-- [Route planner app](https://hyrtsi.github.io/bicycling-route-planner-app)
+
+
+<!-- - [Route planner app](https://hyrtsi.github.io/bicycling-route-planner-app)
 - [Route planning manually](https://hyrtsi.github.io/bicycling-route-planning)
 - Coming: bicycle and gear
 - Coming: psychology
 - Coming: funding
 
-Stay tuned!
+Stay tuned! -->

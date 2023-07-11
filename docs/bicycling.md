@@ -7,6 +7,56 @@ comments: true
 
 ![eljas-cycles]({{site.baseurl}}/assets/e-cycle.jpg)
 
+I have been bicycling for my whole life.
+To cycle 100km (62mi) at one sitting felt magical to me.
+Almost impossible.
+But I did it the first time in 2014.
+Not long after that did I do my first overnight bicycling tour in Southern Finland.
+That started a series of events that led to me bicycling around the world.
+
+- 2014: Helsinki-Lahti (100km/62mi)
+- 2015: Helsinki-Lahti-Evo-Lahti (200km/120mi)
+- 2017: Helsinki-Porvoo-Virojoki-Lappeenranta (250km/180mi)
+- 2019: Lappeenranta-Koli (330km/205mi)
+
+In 2019 I bicycled abroad for the first time in my life: I went from Estonia to Latvia.
+That gave me the confidence that I am capable of bicycling abroad, getting food and sleeping outside.
+
+So naturally in 2020, just before the pandemic hit, I bought flights to New Zealand and decided to bicycle around the south island.
+My plan: Christchurch-Hokitika-Queenstown-Christchurch.
+I only made it to Wanaka before the country went to lockdown.
+Bicycling around 650km/400mi in two weeks.
+That was the first time I went that far from home.
+To be exact it'd be difficult to be farther away from Finland than that.
+It was also my first time to fly with a bicycle.
+I proved myself anything is possible.
+
+2021: I bicycled from Montpellier, France to Italy along the Riviera.
+Then headed to the mountains and went past the Alps.
+I finished in Zurich, Switzerland totaling at about 1100km/680mi in one month.
+That tour changed my world.
+I got hungry for more.
+I decided I have to do this more often and I need to bicycle around the world for good.
+
+2022: Helsinki-Cluj-Napoca, Romania.
+Via Estonia, Latvia, Lithuania, Poland, Slovakia and Hungary.
+Totaling roughly 1300km/800 in one month since we used the train at times.
+
+2023: Bicycling in the Nordics: Kolari-Abisko-Narvik-Alta-Hetta.
+Finland/Sweden/Norway.
+1100km/680mi in two weeks.
+
+---
+
+I have already done some cool tours in 15 countries on two continents.
+They have teached me a lot about myself, the world and my gear.
+As a European citizen it's easy for me to travel inside EU.
+However, I don't want to be "locked" here forever.
+It's too easy and comfortable.
+So my next trip will be in Africa.
+I will post about that later if I come back alive.
+
+<!-- 
 Bicycling around the world. I can't think of any better way to use my limited lifetime. To explore the hidden gems of the world, learn about new cultures, challenge myself and feel the freedom.
 
 I started bicycling at the age of three or four and I never stopped. I started exploring Finland but then I started doing trips abroad in the Baltics, Mediterranean, East Europe and even New Zealand!
@@ -79,4 +129,4 @@ Things that do not motivate me:
 
 It is inevitable that the list of countries I can visit is really low if I want to minimize all risks. Consider [all the horrible things that happened to Heinz Stuck](https://en.wikipedia.org/wiki/Heinz_St%C3%BCcke#Global_bicycle_tour) on his journey. But that doesn't make me want to stay at home. He did survive it so I will survive, too.
 
-
+ -->
