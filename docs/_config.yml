@@ -47,6 +47,7 @@ header_pages:
   - about.markdown
   - bicycling.md
   - tags.md
+  - links.md
 disqus:
   shortname: hyrtsi
 exclude:
