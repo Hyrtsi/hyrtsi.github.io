@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links of Eljas "Hyrtsi" Hyyrynen
+title: Links
 permalink: /links/
 ---
 
