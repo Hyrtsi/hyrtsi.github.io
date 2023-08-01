@@ -12,7 +12,7 @@ Your own personal tree.
 For monthly supporters I promise regular updates of the tree where
 I show the growth process.
 
-[🌿🌿 Plant Me A Tree 🌿🌿](https://buymeacoffee.com/eljas)
+# [🌿🌿 Plant Me A Tree 🌿🌿](https://buymeacoffee.com/eljas)
 
 ## Why
 
