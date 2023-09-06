@@ -81,3 +81,6 @@ Jin from [Universe With Me](https://www.universewithme.com/) has spent her fair 
 This is the UK to Australia route by Nick Sanders
 
 ![nick-sanders]({{site.baseurl}}/assets/uk-to--aust.jpg)
+
+Ed Pratt went around the world with a unicycle being the first person in the world to do so.
+His route is [here](https://www.worldunicycletour.com/route/) on his webpage.
