@@ -58,7 +58,7 @@ I will post about that later if I come back alive.
 
 ---
 
-
+# Posts
 
 <div class="home">
   {% if site.paginate %}
