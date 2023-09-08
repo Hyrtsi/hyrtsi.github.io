@@ -40,7 +40,7 @@ minima:
     - { platform: linkedin, user_url: "https://linkedin.com/in/eljashyyrynen"}
   google_analytics: G-T7LR95T6F9
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
 header_pages:
