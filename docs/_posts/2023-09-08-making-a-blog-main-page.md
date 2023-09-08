@@ -187,4 +187,95 @@ layout: base
 ```
 {%endraw%}
 
+With this boilerplate code you can have as many blogs inside your blog as you want.
+You can just filter the tags you want like shown above and create new pages where you list those posts.
+
+## How to remove posts with a certain tag from the main page?
+
+The main page of a Jekyll Minima -based page contains the list of posts.
+If you want to change that, you have to first create a file `docs/_layouts/home.html`. 
+You must copy the contents of Minima's implementation from their github repository or write it from scratch.
+I did the former with this change:
+
+{%raw%}
+```liquid
+      {%- for post in posts -%}
+        {%- unless post.tags contains 'bicycling'-%}
+    .... rest of the stuff
+```
+{%endraw%}
+
+The whole file looks like this
+
+{%raw%}
+```liquid
+---
+layout: base
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+        {%- unless post.tags contains 'bicycling'-%}
+            <li>
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+                <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                </a>
+                </h3>
+                {%- if site.show_excerpts -%}
+                {{ post.excerpt }}
+                {%- endif -%}
+            </li>
+        {%- endunless -%}
+      {%- endfor -%}
+    </ul>
+
+    {% if site.paginate %}
+      <div class="pager">
+        <ul class="pagination">
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+          <li><div class="current-page">{{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+
+  {%- endif -%}
+
+</div>
+```
+{%endraw%}
+
+Remember to test that locally and add the file to version control!
+If you followed the same steps you should have two different "feeds" of posts that "follow" different tags.
+
 Happy blogging!
