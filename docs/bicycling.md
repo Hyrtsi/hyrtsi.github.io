@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bicycling Around The World
+title: Bicycling
 permalink: /bicycling/
 comments: true
 ---
