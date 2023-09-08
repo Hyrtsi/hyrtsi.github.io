@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Bicycling
+title: Bicycling Around The World
 permalink: /bicycling/
 comments: true
 ---
 
-![eljas-cycles]({{site.baseurl}}/assets/e-cycle.jpg)
+![eljas-cycles]({{site.baseurl}}/assets/e-cycle-crop.jpg)
 
 I have been bicycling for my whole life.
 To cycle 100km (62mi) at one sitting felt magical to me.
