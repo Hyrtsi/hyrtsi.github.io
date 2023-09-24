@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "How to embed Google My Maps to your Jekyll + Github Pages blog"
-date: 2023-03-04 13:37:00 +0200
-tags: "google maps" maps blogging
+date: 2023-09-24 13:37:00 +0200
+tags: googlemaps maps blogging
 author: Eljas Hyyrynen
 ---
 
