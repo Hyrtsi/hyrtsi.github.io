@@ -30,7 +30,9 @@ Let's get to it.
 
 
 {% raw %}
+```
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=12-1jR9eg9WrSYcYUdut1llUKNJB6q4U&ehbc=2E312F" width="640" height="480"></iframe>
+```
 {% endraw %}
 
 5. Paste it to your page and you're done!
@@ -45,7 +47,9 @@ Let's get to it.
 4. Copy the HTML. It will look like this
 
 {% raw %}
+```
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.6970549469356!2d-11.404745524050453!3d21.124640684477146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xe811f822dce98ed%3A0x2165fb02a4108c6f!2sEye%20Of%20The%20Sahara!5e0!3m2!1sfi!2sfi!4v1695557376858!5m2!1sfi!2sfi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```
 {% endraw %}
 
 5. Paste it to your page and you're done!
