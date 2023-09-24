@@ -38,7 +38,7 @@ Let's get to it.
 5. Paste it to your page and you're done!
 
 {% raw %}
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=12-1jR9eg9WrSYcYUdut1llUKNJB6q4U&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe id="mymap" src="https://www.google.com/maps/d/u/0/embed?mid=12-1jR9eg9WrSYcYUdut1llUKNJB6q4U&ehbc=2E312F" width="640" height="480"></iframe>
 {% endraw %}
 
 # Bonus: how to embed Google Maps?
@@ -50,7 +50,7 @@ Let's get to it.
 5. Paste it to your page and you're done!
 
 {% raw %}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.6970549469356!2d-11.404745524050453!3d21.124640684477146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xe811f822dce98ed%3A0x2165fb02a4108c6f!2sEye%20Of%20The%20Sahara!5e0!3m2!1sfi!2sfi!4v1695559095947!5m2!1sfi!2sfi" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe id="gmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.6970549469356!2d-11.404745524050453!3d21.124640684477146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xe811f822dce98ed%3A0x2165fb02a4108c6f!2sEye%20Of%20The%20Sahara!5e0!3m2!1sfi!2sfi!4v1695559095947!5m2!1sfi!2sfi" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 {% endraw %}
 
 ---
