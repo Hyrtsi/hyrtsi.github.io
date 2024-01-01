@@ -51,6 +51,12 @@ The bigger your software project is and the more developers and users you have t
 For your own little hobby project that nobody ever discovers it doesn't really matter.
 I used to always use MIT license but now I'm possessed of the idea of the license that spreads open sourceness like a virus.
 
+💡 Suggestion: take a script, project, studying notes or similar that you spent a fair share of time working with.
+Polish and improve it to the state where it's useful for someone else than only you.
+Share it as a repository or gist.
+If you spent long time on it, it may be of value for someone else, too, and save their time.
+What if you would start working always this in mind: instead of making hacky code and messy folder structures make clear projects that don't require lots of additional work to be in publishable form.
+
 # Studying repositories from Github
 
 Github is my favorite platform for both storing and managing my repositories but also for "social" programming.
@@ -168,8 +174,68 @@ This is the life cycle of software.
 My dream is to one day make a significant contribution to the software ecosystem.
 It would be glorious to have my code stay for a long period of time in the flow.
 
+# How do I benefit?
+
+Besides learning, you will get reputation, contacts and possibly land a job because of open source contribution.
+I think that an open source project is like a company, but most of the communication happens online without ever meeting the people you code with.
+It's a bunch of strangers making something functional together.
+Look at the most popular open source repositories.
+They did something right because it's impossible to keep a poorly maintained project alive for a long time.
+Without good guidelines, tests, standards, mechanisms, automated builds and communication such project will turn into a chaos in no time!
+Look closely how these things are handled and you can take those skills with you to each and every project.
+
+Employers will appreciate it if you show concrete results in projects.
+Open source is the best way to do this.
+For some reason prior work experience is appreciated but I think it's overrated.
+I might have worked 5 years at Nvidia with difficult subjects but my future boss has no way of knowing what I exactly did there, how good or bad commits did I do, how many negative comments I got in my PRs or such.
+In open source everything is transparent.
+So I claim that all the open source experience is way more valuable way of showing your skills to the future bosses in recruitment processes than closed source experience.
+
+If a warm feeling of making something significant and paying back to the ones who helped us isn't enough at least you know that better job positions and salary raises are coming your way if they make you happy.
+To be honest I would be really suspicious of a person with zero open source contributions if I was a hiring manager for a senior position.
+
+# Creative ways of contributing
+
+It's not only coding that matters.
+Here are some out of the box ways to contribute.
+
+- Translate the UI of an app
+- Translate the README or documentation of a repository
+- Create documentation for a project
+- Try to break the application in imaginative ways and post bug reports
+- Test the project in a new platform. If it's a more esoteric platform that should still be supported you are likely to break it.
+- Advertise a project in your social network
+- Arrange a hackathon and publish the entries online
+- Make a tutorial on some subject and publish it on Github or on your website, blog or such
+- Find a new way of using an existing tool
+- Answer to user questions on issue trackers or forums
+- Organize or participate in social events
+- Teach people how to use the project. Arrange bootcamps, online teaching or similar
+- Contribute financially: donate money to the project
+
 # Conclusion
 
 Just spend a lot of time with projects you like and you'll end up making a change that matters.
 One day the outcomes of your big and tiny actions will shape the software projects of the humankind towards something better.
 I wish this motivated you to open that browser or IDE and start working.
+
+# Suggested reading to make your first contribution
+
+- [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
+- [https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+- [https://www.firsttimersonly.com/](https://www.firsttimersonly.com/)
+- [https://firstcontributions.github.io/](https://firstcontributions.github.io/)
+- [https://up-for-grabs.net/](https://up-for-grabs.net/)
+- [https://goodfirstissues.com/](https://goodfirstissues.com/)
+- [https://goodfirstissue.dev/](https://goodfirstissue.dev/)
+- [https://www.codetriage.com/](https://www.codetriage.com/)
+- [https://24pullrequests.com/projects](https://24pullrequests.com/projects)
+- [https://gauger.io/contrib/#/language/javascript](https://gauger.io/contrib/#/language/javascript)
+- [https://ovio.org/projects](https://ovio.org/projects)
+- [https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/)
+- [https://www.freecodecamp.org/news/how-to-contribute-to-open-source-handbook/](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-handbook/)
+- [https://github.com/freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+- [https://opensource.google/projects](https://opensource.google/projects)
+- [https://github.com/sereneblue/awesome-oss](https://github.com/sereneblue/awesome-oss)
+- [https://opensource.creativecommons.org/contributing-code/projects/](https://opensource.creativecommons.org/contributing-code/projects/)
+- [https://opensource.fb.com/projects/](https://opensource.fb.com/projects/)
