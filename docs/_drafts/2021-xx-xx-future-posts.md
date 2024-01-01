@@ -19,3 +19,10 @@ making a software synthesizer
 
 must have skills for a software engineer
 - visualizing, drawing, explaining stuff
+
+
+when clicking the tag, show all posts by that tag category
+
+---
+
+empty title or tag shouldn't be allowed...
