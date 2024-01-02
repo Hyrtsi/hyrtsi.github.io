@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Adding hyperlinks for tags in Jekyll"
 date: 2024-01-01 13:37:01 +0200
 tags: tags jekyll
 author: Eljas Hyyrynen
