@@ -9,147 +9,117 @@
 
 <url>
   <loc>https://hyrtsi.github.io/</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/about/</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/bicycling/</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/tags/</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/links/</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hyrtsi.github.io/2024/01/01/tags-links-jekyll.html</loc>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hyrtsi.github.io/2023/12/27/summary-23.html</loc>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2023/09/24/how-to-embed-map.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2023/09/08/making-a-blog-main-page.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hyrtsi.github.io/2023/03/04/soft-synth.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hyrtsi.github.io/2023/02/20/linux-nvidia-hell.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hyrtsi.github.io/2023/02/15/pytorch-cpp.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2023/01/15/summary-22-23.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hyrtsi.github.io/2023/01/15/nvidia-gpu-drivers.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2023/01/15/how-to-fix-jekyll-build.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2022/10/20/tag-cloud.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hyrtsi.github.io/2022/10/11/cmake.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2022/10/09/comments.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2022/07/05/fix-torch-error.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2022/07/02/test-math.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hyrtsi.github.io/2022/06/26/doom.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hyrtsi.github.io/2022/06/21/awesome-gaze-detection.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2022/06/20/awesome-programming-blogs.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2022/06/20/changes-not-visible-github-jekyll.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2022/06/06/tensorrt-multiple-outputs.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2022/03/24/jekyll-remote-theme.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2022/03/24/be-found-on-google.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2022/03/24/minima-dark-jekyll.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/2022/10/09/bicycling.html</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://hyrtsi.github.io/tree/</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://hyrtsi.github.io/bicycling-study</loc>
-  <lastmod>2023-09-24T12:54:25+00:00</lastmod>
+  <lastmod>2024-06-19T11:22:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
