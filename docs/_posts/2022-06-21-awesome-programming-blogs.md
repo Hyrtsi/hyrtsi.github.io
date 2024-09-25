@@ -5,7 +5,7 @@ date:   2022-06-20 17:50:25 +0200
 tags: programming blogs
 ---
 
-Nothing's better than reading rants and insights about programming, computer science and Silicon Valley lyfe while your testsuite is running and you have a cup of coffee in front of you.
+Nothing's better than reading rants and insights about programming, computer science and Silicon Valley life while your testsuite is running and you have a cup of coffee in front of you.
 
 Here are my favorite programming blogs. It's a list I will update regularly.
 
